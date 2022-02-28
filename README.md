@@ -1,9 +1,6 @@
 ## Description
 
-<hr>
-<hr>
-
-<br>
+<hr><hr><br>
 <h3 align="center">-- Note-Taker --</h3>
 <br>
 
@@ -19,13 +16,10 @@ An app can be used to write and save notes. This application will use an Express
 <hr>
 <hr>
 
-<br><h1 align="center">- Functions - </h1><hr>
-
-
 <br><h2 align="center">- Installation - </h2><br>
 
 <p align="center">
-To install this app simply run the command 'npm i inquirer' <br> in the terminal.
+To install this app simply run the command "npm i inquirer"  in the terminal.
 </p><br><hr><hr>
 
 <br><h2 align="center">- Nodemon - </h2><br>
@@ -53,35 +47,89 @@ add <br> "watch": "nodemon server.js  <br>inside the script part of package.json
 
 
 <p align="center">
-Open the terminal and run the command 'npm run watch'</p>
+Open the terminal and run the command "npm run watch"</p>
+
+<br>
+<hr>
+<hr>
+<br>
+
+## Function
 
 <br>
 <hr>
 <hr>
 
 <br>
-<h2 align="center">- Video Demo -</h2>
+<h3 align="center">- Landing Page -</h3>
 <br>
 
-[Video-Demo](https://drive.google.com/file/d/14wuO8i5CZryilf1EfElrLqOARk9NtGoR/view)
+<p align="center">
+<img src="https://i.imgur.com/jKLfrOw.gif" title="source: imgur.com" alt="Landing Page"/>
+</p><br>
+
+
+<p align="center">
+Presented with a landing page with a link to a notes page when open the note taker.</p>
 
 <br>
+<p align="center">
+Presented with a page with existing notes listed in the left-hand column, plus empty fields to enter a new note title and the note’s text in the right-hand column when click on the link to the notes page</p>
+<br>
+
+<p align="center">
+A note appears in the right-hand column when click on an existing note in the list in the left-hand column</p>
 
 <hr>
 <hr>
+<br>
+<h3 align="center">- New Notes & Save -</h3>
+<br>
+
+<p align="center">
+<img src="https://i.imgur.com/5zUeprd.gif" title="source: imgur.com" alt="New Notes & Save"/>
+</p><br>
+
+<p align="center">
+Present with empty fields to enter a new note title and the note’s text in the right-hand column when click on the Write icon in the navigation at the top of the page</p><br>
+<p align="center">
+A Save icon appears in the navigation at the top of the page when enter new note title & text</p><br>
+<p align="center">
+The new note I have entered is saved and appears in the left-hand column with the other existing notes when click on the Save icon</p><br>
+
+
+<hr><hr>
+
+<br>
+<h3 align="center">- Delete Notes -</h3>
+<br>
+
+<p align="center">
+<img src="https://i.imgur.com/itOkuu3.gif" title="source: imgur.com" alt="Delete Notes"/>
+</p><br>
+
+
+<p align="center">
+The corresponding notes is removed when click on the bin button</p><br>
+
+
+<br><hr><hr>
+
+
+
 
 <br>
 <h3 align="center">- Application Demo -</h3>
 <br>
 
-<a align="center" href="https://note-taker-opticsl8b.herokuapp.com/">Application-Demo</a>
+<a align="center" href="https://note-taker-opticsl8b.herokuapp.com/" target="_blank">Application-Demo</a>
 
 
 <br>
 <hr>
 <hr>
 
-<h2>Future scope</h2><br>
+<h3 align="center">Future scope</h3><br>
 
 - Better HTML layout 
 
