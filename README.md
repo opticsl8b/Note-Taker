@@ -19,7 +19,8 @@ An app can be used to write and save notes. This application will use an Express
 <hr>
 <hr>
 
-## Functions <hr><hr>
+<br><h1 align="center">- Functions - </h1><hr>
+
 
 <br><h2 align="center">- Installation - </h2><br>
 
